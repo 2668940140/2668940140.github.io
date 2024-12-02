@@ -1,0 +1,15 @@
+---
+title:  "Welcome!"
+date:   2024-12-02 16:42:08 +0800
+tags: ["misc"]
+---
+Hello!
+
+$$a^2 + b^2 = c ^2$$
+
+```c++
+int main()
+{
+  printf("Hello World");
+}
+```
