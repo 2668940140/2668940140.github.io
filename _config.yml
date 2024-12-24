@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: "Doverhi's Github Pages"
+title: "jhzhics's Github Pages"
 
 # Your name to show in the footer
 author: Jiahao Zhang
@@ -47,7 +47,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "zhangjiahao2022@stu.pku.edu.cn"
-  github: "2668940140"
+  github: "jhzhics"
 
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
@@ -84,9 +84,9 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
